@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="public/logo.svg" alt="PacketShark Logo" width="96" />
+  <img src="public/logo.png" alt="PacketShark Logo" width="96" />
   <br />
   PacketShark
 </h1>
