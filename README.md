@@ -26,6 +26,14 @@
 
 ---
 
+## Screenshots
+
+<p align="center">
+  <img src="public/screenshot.png" alt="PacketShark" width="700" />
+</p>
+
+---
+
 ## Requirements
 
 Before installing, make sure you have the following:
